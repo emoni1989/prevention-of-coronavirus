@@ -104,5 +104,10 @@ and (max-width : 320px) {
 .box1 {
     font-size: 100%;
 }
+.top img{ 
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
 }
 
